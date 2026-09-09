@@ -1,0 +1,24 @@
+{"bookLists": [
+    {
+        "books": [{
+            "contentPath": "./data/testbook.txt",
+            "notes": "hiii",
+            "author": "Emily",
+            "genre": "testbook",
+            "rating": 4.5,
+            "title": "test"
+        }],
+        "name": "Favorites"
+    },
+    {
+        "books": [{
+            "contentPath": "./data/testbook2.txt",
+            "notes": "hiiiii",
+            "author": "Emily",
+            "genre": "testbook2",
+            "rating": 0.5,
+            "title": "test2"
+        }],
+        "name": "To read"
+    }
+]}

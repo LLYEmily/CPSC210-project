@@ -1,0 +1,29 @@
+{
+    "bookLists": [
+        {
+            "name": "Empty",
+            "books": []
+        }, 
+        {
+            "name": "Favorites",
+            "books": [
+                {
+                    "title": "test2",
+                    "author": "Emily",
+                    "genre": "testbook2",
+                    "rating": 0.5,
+                    "notes": "hiiiii",
+                    "contentPath": "./data/testbook2.txt"
+                },
+                {
+                    "title": "test",
+                    "author": "Emily",
+                    "genre": "testbook",
+                    "rating": 4.5,
+                    "notes": "hiii",
+                    "contentPath": "./data/testbook.txt"
+                }
+            ]
+        }
+    ]
+}
